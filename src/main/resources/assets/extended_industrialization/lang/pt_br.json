@@ -195,7 +195,7 @@
   "text.extended_industrialization.farmer_tilling": "Arando",
   "text.extended_industrialization.fluid_fertilizers": "Fertilizantes Fluidos",
   "text.extended_industrialization.fluid_fertilizers_consumes": "Consome: %smb",
-  "text.extended_industrialization.fluid_fertilizers_time": "Tempo de Ciclo: %.1fs",
+  "text.extended_industrialization.fluid_fertilizers_time": "Tempo de Ciclo: %ss",
   "text.extended_industrialization.generating_eu_per_tick": "Gerando: %s EU/t",
   "text.extended_industrialization.honey_extractor_help": "Quando colocado virado para uma colmeia, o mel será extraído na forma fluida.",
   "text.extended_industrialization.infinity": "∞",
